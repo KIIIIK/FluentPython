@@ -1,2 +1,2 @@
 # Random_Note
- 这是一个随意文件夹
+ 《流畅的Python》
